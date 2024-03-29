@@ -1,4 +1,2 @@
-# test-repository
-This is a test repo
-
-This is a second example
+# My very first repo
+Okinba is a programming god
